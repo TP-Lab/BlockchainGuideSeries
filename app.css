@@ -50,5 +50,16 @@
 }
 
 .has-mask .mask {
-    opacity: 0!important;
+    opacity: 0 !important;
+}
+
+
+@media screen and (max-width: 767px) {
+    .tp-main {
+        display: block;
+    }
+
+    .tp-custom:first-child {
+        margin-right: 0;
+    }
 }

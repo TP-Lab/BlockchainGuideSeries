@@ -89,7 +89,6 @@
 **<font color=#2980fe>冷钱包，冷即离线、断网，也就是说，私钥存储的位置不能被
 网络所访问。例如纸钱包、脑钱包、硬件钱包等等。</font>**
 
-======
 
 ![节点钱包 示意图](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576071528679.png "节点钱包")
 
@@ -132,17 +131,17 @@
 ### 钱包安全小贴士
 
 
-+ 公钥是可以曝光的，对你的资产安全无影响。
+> 公钥是可以曝光的，对你的资产安全无影响。
 
 
-+ 助记词、私钥、keystore一旦泄露，资产所有权将立刻被他人掌控，此时你需要立即转移资产到其他地址，原先的账户不再使用。
+> 助记词、私钥、keystore一旦泄露，资产所有权将立刻被他人掌控，此时你需要立即转移资产到其他地址，原先的账户不再使用。
 
-+ keystore泄露，不管密码有没有泄露，都存在他人掌控资产的⻛险，因此需要赶快把资产转移其他地址。
+> keystore泄露，不管密码有没有泄露，都存在他人掌控资产的⻛险，因此需要赶快把资产转移其他地址。
 
-+ 如果是EOSIO（包括EOS、BOS、ENU等）和IOST的账号私钥泄
-露时，还可以采取更换新私钥的方式，阻止他人掌控自己的资产。
+> 如果是EOSIO（包括EOS、BOS、ENU等）和IOST的账号私钥泄
+> 露时，还可以采取更换新私钥的方式，阻止他人掌控自己的资产。
 
-+ 在存储私钥、助记词时，我们都建议采用离线形式（手抄、打印等）进行数据备份，同时将备份好的内容妥善保管。对于keystore这样的信息，采用抄写进行备份是很不科学并且很容易出错的，所以用户可以将keystore存储为文件形式，然后可以将其存储在U盘中再妥善管理好U盘；其中，我们非常不建议您进行截屏、网络传输（QQ、微信）、云端存储等方式备份，这些方式都有可能遭遇黑客攻击，从而造成资产损失。
+> 在存储私钥、助记词时，我们都建议采用离线形式（手抄、打印等）进行数据备份，同时将备份好的内容妥善保管。对于keystore这样的信息，采用抄写进行备份是很不科学并且很容易出错的，所以用户可以将keystore存储为文件形式，然后可以将其存储在U盘中再妥善管理好U盘；其中，我们非常不建议您进行截屏、网络传输（QQ、微信）、云端存储等方式备份，这些方式都有可能遭遇黑客攻击，从而造成资产损失。
 
 
 ## 区块链钱包功能介绍
@@ -270,14 +269,14 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 ```
 
 
-| **中心化钱包**                                                                               | **去中心化钱包**                                                                               |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 私钥由平台方掌控                                                                             | 私钥由用户掌控                                                                                 |
-| 资产存储在平台方的钱包                                                                       | 资产存储在用户的钱包                                                                           |
-| 密码可找回                                                                                   | 密码不可找回                                                                                   |
-| 转账需要平台审核                                                                             | 转账不需要平台审核                                                                             |
-| 中心化账号在钱包平台不可用                                                                   | 去中心化账号在其他钱包通用                                                                     |
-| 平台内部转账无手续费，资产提现有手续费                                                       | 资产转账仅需支付区块链网络费用                                                                 |
+| **中心化钱包**                                               | **去中心化钱包**                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 私钥由平台方掌控                                             | 私钥由用户掌控                                               |
+| 资产存储在平台方的钱包                                       | 资产存储在用户的钱包                                         |
+| 密码可找回                                                   | 密码不可找回                                                 |
+| 转账需要平台审核                                             | 转账不需要平台审核                                           |
+| 中心化账号在钱包平台不可用                                   | 去中心化账号在其他钱包通用                                   |
+| 平台内部转账无手续费，资产提现有手续费                       | 资产转账仅需支付区块链网络费用                               |
 | 平台丢币风险来源：平台方钱包被黑客攻击、服务器被攻击、运营商倒闭（钱包服务关闭）、运营商作弊 | 钱包丢币风险来源：私钥泄漏与遗忘、私钥未备份、安装钱包的设备丢失（手机、电脑）、安装了木马钱包 |
 
 ## 区块链钱包导航
@@ -286,6 +285,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 
 <!-- 1 -->
+
 <main class="tp-main">
 <!-- TokenPocket -->
 <a class="tp-custom" href="https://www.tokenpocket.pro" target="_blank">
@@ -295,6 +295,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.tokenpocket.pro</p>
     </div>
 </a>
+
 
 <!-- Trust Wallet -->
 <a class="tp-custom" href="https://www.trustwallet.com" target="_blank">
@@ -309,6 +310,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 2 -->
+
 <main class="tp-main">
 <!-- Bitpie -->
 <a class="tp-custom" href="https://bitpie.com" target="_blank">
@@ -318,6 +320,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://bitpie.com</p>
     </div>
 </a>
+
 
 <!-- imToken -->
 <a class="tp-custom" href="https://token.im" target="_blank">
@@ -330,6 +333,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 3 -->
+
 <main class="tp-main">
 <!-- Huobi -->
 <a class="tp-custom" href="https://www.huobiwallet.com" target="_blank">
@@ -339,6 +343,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.huobiwallet.com</p>
     </div>
 </a>
+
 
 <!-- AToken -->
 <a class="tp-custom" href="https://www.atoken.com" target="_blank">
@@ -351,6 +356,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 4 -->
+
 <main class="tp-main">
 <!-- BPEAL Wallet -->
 <a class="tp-custom" href="https://www.bepal.pro" target="_blank">
@@ -360,6 +366,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.bepal.pro</p>
     </div>
 </a>
+
 
 <!-- Starteos -->
 <a class="tp-custom" href="https://www.starteos.io" target="_blank">
@@ -372,6 +379,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 5 -->
+
 <main class="tp-main">
 <!-- BitKeep -->
 <a class="tp-custom" href="https://www.bitkeep.com" target="_blank">
@@ -381,6 +389,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.bitkeep.com</p>
     </div>
 </a>
+
 
 <!-- MEET.ONE -->
 <a class="tp-custom" href="https://www.meet.one" target="_blank">
@@ -393,6 +402,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 6 -->
+
 <main class="tp-main">
 <!-- Tronlink -->
 <a class="tp-custom" href="https://www.tronlink.org" target="_blank">
@@ -402,6 +412,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.tronlink.org</p>
     </div>
 </a>
+
 
 <!-- Lynx -->
 <a class="tp-custom" href="https://lynxwallet.io" target="_blank">
@@ -414,6 +425,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 7 -->
+
 <main class="tp-main">
 <!-- Scatter -->
 <a class="tp-custom" href="https://get-scatter.com" target="_blank">
@@ -423,6 +435,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://get-scatter.com</p>
     </div>
 </a>
+
 
 <!-- MetaMask -->
 <a class="tp-custom" href="https://metamask.io" target="_blank">
@@ -435,6 +448,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 8 -->
+
 <main class="tp-main">
 <!-- ENJIN Wallet -->
 <a class="tp-custom" href="https://enjin.io/products/wallet" target="_blank">
@@ -444,6 +458,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://enjin.io/products/wallet</p>
     </div>
 </a>
+
 
 <!-- jaxx wallet -->
 <a class="tp-custom" href="https://jaxx.io" target="_blank">
@@ -456,6 +471,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 9 -->
+
 <main class="tp-main">
 <!-- HB Wallet -->
 <a class="tp-custom" href="https://www.hb-wallet.com" target="_blank">
@@ -465,6 +481,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.hb-wallet.com</p>
     </div>
 </a>
+
 
 <!-- KCASH -->
 <a class="tp-custom" href="https://www.kcash.com" target="_blank">
@@ -479,6 +496,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 ### 中心化钱包
 
 <!-- 1 -->
+
 <main class="tp-main">
 <!-- 币信 -->
 <a class="tp-custom" href="https://bixin.com" target="_blank">
@@ -488,6 +506,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://bixin.com</p>
     </div>
 </a>
+
 
 <!-- Edge -->
 <a class="tp-custom" href="https://edge.app" target="_blank">
@@ -500,6 +519,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 2 -->
+
 <main class="tp-main">
 <!-- Conibase Wallet -->
 <a class="tp-custom" href="https://www.coinbase.com" target="_blank">
@@ -509,6 +529,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.coinbase.com</p>
     </div>
 </a>
+
 
 <!-- Uphold -->
 <a class="tp-custom" href="https://uphold.com" target="_blank">
@@ -523,6 +544,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 ### 硬件钱包
 
 <!-- 1 -->
+
 <main class="tp-main">
 <!-- Ledger -->
 <a class="tp-custom" href="https://www.ledger.com" target="_blank">
@@ -532,6 +554,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.ledger.com</p>
     </div>
 </a>
+
 
 <!-- Trezor -->
 <a class="tp-custom" href="https://www.trezor.io" target="_blank">
@@ -544,6 +567,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 2 -->
+
 <main class="tp-main">
 <!-- keep key -->
 <a class="tp-custom" href="https://shapeshift.io/keepkey" target="_blank">
@@ -553,6 +577,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://shapeshift.io/keepkey</p>
     </div>
 </a>
+
 
 <!-- 库神(ColdLar） -->
 <a class="tp-custom" href="https://www.coldlar.com" target="_blank">
@@ -565,6 +590,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 3 -->
+
 <main class="tp-main">
 <!-- 比特护盾（BITHD) -->
 <a class="tp-custom" href="https://bithd.com" target="_blank">
@@ -574,6 +600,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://bithd.com</p>
     </div>
 </a>
+
 
 <!-- imKey -->
 <a class="tp-custom" href="https://imkey.im" target="_blank">
@@ -586,6 +613,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 4 -->
+
 <main class="tp-main">
 <!-- Cobo金库 -->
 <a class="tp-custom" href="https://cobo.com" target="_blank">
@@ -595,6 +623,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://cobo.com</p>
     </div>
 </a>
+
 
 <!-- BEPAL Pro S -->
 <a class="tp-custom" href="https://www.bepal.pro/bepal-q" target="_blank">
@@ -607,6 +636,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 5 -->
+
 <main class="tp-main">
 <!-- 华特钱包 -->
 <a class="tp-custom" href="https://www.orientwalt.com" target="_blank">
@@ -616,6 +646,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.orientwalt.com</p>
     </div>
 </a>
+
 
 <!-- BEPAL Pro S -->
 <a class="tp-custom" style="border:none;">
@@ -630,6 +661,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 ### 中心化&去中心化
 
 <!-- 1 -->
+
 <main class="tp-main">
 <!-- Cobo -->
 <a class="tp-custom" href="https://cobo.com" target="_blank">
@@ -639,6 +671,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://cobo.com</p>
     </div>
 </a>
+
 
 <!-- 库神 -->
 <a class="tp-custom" href="https://www.coldlar.com" target="_blank">
@@ -651,6 +684,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 2 -->
+
 <main class="tp-main">
 <!-- 虎符 -->
 <a class="tp-custom" href="https://hoo.com" target="_blank">
@@ -660,6 +694,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://hoo.com</p>
     </div>
 </a>
+
 
 <!-- Renrenbit -->
 <a class="tp-custom" href="https://www.renrenbit.com" target="_blank">
@@ -672,6 +707,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 3 -->
+
 <main class="tp-main">
 <!-- HyperPay -->
 <a class="tp-custom" href="http://www.hyperpay.tech" target="_blank">
@@ -681,6 +717,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>http://www.hyperpay.tech</p>
     </div>
 </a>
+
 
 <!-- Math Wallet -->
 <a class="tp-custom" href="http://www.mathwallet.org" target="_blank">
@@ -698,21 +735,103 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 网址：https://help.mytokenpocket.vip/hc/zh-cn
 
-
-![ 二维码 ](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576074939866.png "二维码")
-
+<img src="https://gz.bcebos.com/v1/tp-statics/logo/QA-code.jpg" width="250">
 
 ### BTC(比特币)钱包常⻅问题
-[点击前往查看](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007340872-%E6%AF%94%E7%89%B9%E5%B8%81-BTC-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+1.[如何创建BTC比特币钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208612-%E5%9C%A8TokenPocket%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BABTC%E9%92%B1%E5%8C%85-)
+
+2.[如何备份BTC比特币私钥](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208872-%E5%A6%82%E4%BD%95%E5%A4%87%E4%BB%BDBTC%E6%AF%94%E7%89%B9%E5%B8%81%E7%A7%81%E9%92%A5-)
+
+3.[BTC比特币私钥丢了怎么办](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208972-BTC%E7%A7%81%E9%92%A5%E4%B8%A2%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E-)
+
+4.[如何修改BTC比特币钱包密码](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037209032-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AEBTC%E9%92%B1%E5%8C%85%E5%AF%86%E7%A0%81-)
+
+5.[如何将BTC比特币私钥导入钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037211032-%E5%A6%82%E4%BD%95%E5%B0%86btc%E7%A7%81%E9%92%A5%E5%AF%BC%E5%85%A5%E9%92%B1%E5%8C%85-)
+
+6.[如何用钱包把BTC比特币转账到交易所](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037209852-%E5%A6%82%E4%BD%95%E7%94%A8%E9%92%B1%E5%8C%85%E6%8A%8Abtc%E8%BD%AC%E5%85%A5%E4%BA%A4%E6%98%93%E6%89%80-)
+
+7.[如何设置BTC比特币矿工费](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037576691-%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AEbtc%E7%9A%84%E7%9F%BF%E5%B7%A5%E8%B4%B9-)
+
+8.[BTC比特币转账慢可以加速吗？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037211172-BTC%E6%AF%94%E7%89%B9%E5%B8%81%E8%BD%AC%E8%B4%A6%E6%85%A2%E5%8F%AF%E4%BB%A5%E5%8A%A0%E9%80%9F%E5%90%97)
+
+9.[什么是BTC隔离见证？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037362692-%E4%BB%80%E4%B9%88%E6%98%AFBTC%E9%9A%94%E7%A6%BB%E8%A7%81%E8%AF%81-)
+
+10.[比特币的工作量证明（POW）是什么？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037363992-BTC%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E-POW-%E6%98%AF%E4%BB%80%E4%B9%88-)
+
+[点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007340872-%E6%AF%94%E7%89%B9%E5%B8%81-BTC-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 ### ETH(以太坊)钱包常⻅问题
-[点击前往查看](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007354652-ETH-%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+1.[怎样创建ETH钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037514271-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAETH%E9%92%B1%E5%8C%85-)
+
+2.[怎样找回之前的ETH钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037151792-%E5%A6%82%E4%BD%95%E6%89%BE%E5%9B%9E%E4%B9%8B%E5%89%8D%E7%9A%84ETH%E9%92%B1%E5%8C%85-)
+
+3.[怎样购买ETH资产](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037152332-%E6%80%8E%E6%A0%B7%E8%B4%AD%E4%B9%B0ETH%E8%B5%84%E4%BA%A7-)
+
+4.[怎样充值ETH到钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153092-%E6%80%8E%E6%A0%B7%E5%85%85%E5%80%BCETH%E5%88%B0%E9%92%B1%E5%8C%85-)
+
+5.[钱包里的ETH如何卖出变现](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153552-%E9%92%B1%E5%8C%85%E9%87%8C%E7%9A%84ETH%E5%A6%82%E4%BD%95%E5%8D%96%E5%87%BA%E5%8F%98%E7%8E%B0-)
+
+6.[ETH转账记录怎么看？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153712-ETH%E8%BD%AC%E8%B4%A6%E8%AE%B0%E5%BD%95%E6%80%8E%E4%B9%88%E7%9C%8B-)
+
+7.[怎么向他人转账/收取ETH？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516471-%E6%80%8E%E4%B9%88%E5%90%91%E4%BB%96%E4%BA%BA%E8%BD%AC%E8%B4%A6-%E6%94%B6%E5%8F%96ETH-)
+
+8.[ETH转账的手续费和gas费什么意思？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516511-ETH%E8%BD%AC%E8%B4%A6%E7%9A%84%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%92%8Cgas%E8%B4%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
+
+9.[从TokenPocket钱包创建的ETH钱包可以转移到其他钱包吗？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516591-%E5%A6%82%E4%BD%95%E5%BE%80%E9%92%B1%E5%8C%85%E5%85%85%E5%80%BC%E5%9F%BA%E4%BA%8EETH%E5%85%AC%E9%93%BE%E7%9A%84%E5%85%B6%E4%BB%96Token-)
+
+10.[如何往钱包充值基于ETH公链的其他币种？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516591-%E5%A6%82%E4%BD%95%E5%BE%80%E9%92%B1%E5%8C%85%E5%85%85%E5%80%BC%E5%9F%BA%E4%BA%8EETH%E5%85%AC%E9%93%BE%E7%9A%84%E5%85%B6%E4%BB%96Token-)
+
+[点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007354652-ETH-%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 ### EOS(柚子)钱包常⻅问题
-[点击前往查看](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007442911-EOS%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+1.[如何获得EOS柚子？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250532-%E5%A6%82%E4%BD%95%E5%9C%A8TokenPocket%E9%92%B1%E5%8C%85%E8%B4%AD%E4%B9%B0EOS-)
+
+2.[如何从交易所提取EOS到钱包](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250712-%E5%A6%82%E4%BD%95%E4%BB%8E%E4%BA%A4%E6%98%93%E6%89%80%E6%8F%90%E5%8F%96EOS%E5%88%B0TokenPocket%E9%92%B1%E5%8C%85-)
+
+3.[如何注册EOS账号](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250892-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CEOS%E8%B4%A6%E5%8F%B7)
+
+4.[如何进行EOS的转账、收款](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037620971-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CEOS%E7%9A%84%E8%BD%AC%E8%B4%A6-%E6%94%B6%E6%AC%BE-)
+
+5.[EOS的资源又哪些？RAM（内存） cpu（网络资源） net（计算资源）是什么意思？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037623871-EOS%E7%9A%84%E8%B5%84%E6%BA%90%E5%8F%88%E5%93%AA%E4%BA%9B-RAM-%E5%86%85%E5%AD%98-cpu-%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90-net-%E8%AE%A1%E7%AE%97%E8%B5%84%E6%BA%90-%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
+
+6.[不小心把TokenPocketAPP卸载了 ,私钥也没保存能否找回?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037254452-%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ATokenPocket-APP%E5%8D%B8%E8%BD%BD%E4%BA%86-%E7%A7%81%E9%92%A5%E4%B9%9F%E6%B2%A1%E4%BF%9D%E5%AD%98%E8%83%BD%E5%90%A6%E6%89%BE%E5%9B%9E-)
+
+7.[eos转账有手续费吗？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505611-EOS%E8%BD%AC%E8%B4%A6%E6%9C%89%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%90%97-)
+
+8.[如何备份EOS私钥？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505551-%E5%A6%82%E4%BD%95%E5%A4%87%E4%BB%BDEOS%E7%A7%81%E9%92%A5)
+
+9.[EOS观察模式怎么使用？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505191-TokenPocke%E9%92%B1%E5%8C%85%E4%B8%AD-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8EOS%E8%A7%82%E5%AF%9F%E6%A8%A1%E5%BC%8F)
+
+10.[没有CPU的时候怎么办？TokenPokcet的顺畅模式如何使用？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037255072-%E6%B2%A1%E6%9C%89CPU%E7%9A%84%E6%97%B6%E5%80%99%E6%80%8E%E4%B9%88%E5%8A%9E-TokenPokcet%E7%9A%84%E9%A1%BA%E7%95%85%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-)
+
+[点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007442911-EOS%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 ### TRON(波场)钱包常见问题
-[点击前往查看](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+1.[如何获得TRX波场？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037354052-%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97TRX%E6%B3%A2%E5%9C%BA-)
+
+2.[如何从交易所提取TRX到钱包？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037725931-%E5%A6%82%E4%BD%95%E4%BB%8E%E4%BA%A4%E6%98%93%E6%89%80%E6%8F%90%E5%8F%96TRX%E5%88%B0%E9%92%B1%E5%8C%85-)
+
+3.[如何注册及导入TRX账号？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037354672-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8F%8A%E5%AF%BC%E5%85%A5TRX%E8%B4%A6%E5%8F%B7-)
+
+4.[如何进行TRX的转账、收款？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037726591-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CTRX%E7%9A%84%E8%BD%AC%E8%B4%A6-%E6%94%B6%E6%AC%BE-)
+
+5.[波场上的宽带、能量是什么意思？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037730011-%E6%B3%A2%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%AE%BD%E5%B8%A6-%E8%83%BD%E9%87%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
+
+6.[波场上资源冻结和解冻如何操作？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037726871-%E6%B3%A2%E5%9C%BA%E4%B8%8A%E8%B5%84%E6%BA%90%E5%86%BB%E7%BB%93%E5%92%8C%E8%A7%A3%E5%86%BB%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C-)
+
+7.[如何玩波场上的DApp？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037355372-%E5%A6%82%E4%BD%95%E7%8E%A9%E6%B3%A2%E5%9C%BA%E4%B8%8A%E7%9A%84DApp-)
+
+8.[波场钱包如何进行备份？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037358892-%E6%B3%A2%E5%9C%BA%E9%92%B1%E5%8C%85%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%A4%87%E4%BB%BD-)
+
+9.[没有能量的时候怎么办？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037358952-%E6%B2%A1%E6%9C%89%E8%83%BD%E9%87%8F%E5%92%8C%E5%AE%BD%E5%B8%A6%E7%9A%84%E6%97%B6%E5%80%99%E6%80%8E%E4%B9%88%E5%8A%9E-)
+
+10.[如何进行波场投票？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037359032-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%B3%A2%E5%9C%BA%E6%8A%95%E7%A5%A8-)
+
+[点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
 ## 区块链钱包知识自测
 
@@ -723,7 +842,9 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 ```
 
 扫码自测  
-![](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png)
+<img src="https://tp-statics.tokenpocket.pro/logo/ASK-code.png" width="250">
+<!-- <img src="https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png" width="250"> -->
+<!-- ![](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png) -->
 
 
 **商务微信：laurali0815**
@@ -741,5 +862,4 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 **Github：** https://github.com/TP-Lab
 
 **Email ：** service@tokenpocket.pro
-
 
