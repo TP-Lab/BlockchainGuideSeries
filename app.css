@@ -1,0 +1,50 @@
+.tp-main {
+    display: flex;
+    width: 100%;
+}
+
+.tp-custom {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    padding: 15px;
+    background: #fff;
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+    cursor: pointer;
+    transition: all .3s;
+    border: 1px solid #efefef;
+    text-decoration: none;
+}
+
+.tp-custom:first-child {
+    margin-right: 20px;
+}
+
+.tp-custom:hover {
+    transform: translateY(-6px);
+    box-shadow: 0px 1px 2px 1px #efefef;
+}
+
+.tp-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    background: #fff;
+    box-shadow: 0px 1px 1px 2px #efefef;
+    border-radius: 10px;
+}
+
+.tp-content h5 {
+    margin: 0;
+    color: #101010;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: normal;
+}
+
+.tp-content p {
+    margin: 0;
+    color: #2980fe;
+    line-height: normal;
+}
