@@ -841,8 +841,12 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 区块链钱包的问题，你能答对吗？
 ```
 
-扫码自测  
+
+<div class="ask-code">
+<div>扫码自测</div>
 <img src="https://tp-statics.tokenpocket.pro/logo/ASK-code.png" width="250">
+</div>
+
 <!-- <img src="https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png" width="250"> -->
 <!-- ![](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png) -->
 

@@ -62,4 +62,8 @@
     .tp-custom:first-child {
         margin-right: 0;
     }
+
+    .ask-code {
+        text-align: center;
+    }
 }
