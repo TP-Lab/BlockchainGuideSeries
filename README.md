@@ -722,7 +722,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 区块链钱包的问题，你能答对吗？
 ```
 
-扫码自测
+扫码自测  
 ![](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png)
 
 
