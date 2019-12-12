@@ -9,8 +9,8 @@
     align-items: center;
     padding: 15px;
     background: #fff;
-    margin-top: 10px!important;
-    margin-bottom: 10px!important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
     cursor: pointer;
     transition: all .3s;
     border: 1px solid #efefef;
@@ -47,4 +47,8 @@
     margin: 0;
     color: #2980fe;
     line-height: normal;
+}
+
+.has-mask .mask {
+    opacity: 0!important;
 }
