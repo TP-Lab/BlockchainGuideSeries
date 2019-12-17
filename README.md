@@ -75,7 +75,7 @@
 
 > + 公钥是可以曝光的，对你的资产安全无影响。相当于你告诉人家你的银行卡账号一样。
 
-> + 助记词、私钥一旦泄露，资产将立刻被他人掌控，此时你需要立即转移资产到其他地址，原先的账户不再使用。
+> + 助记词、私钥一旦泄露，资产将有很大风险被他人掌控，此时你需要立即转移资产到其他地址，原先的账户或地址不再使用。
 
 > + keystore泄露，不管密码有没有泄露，都存在他人掌控资产的⻛险，因此需要赶快把资产转移其他地址。
 
@@ -94,7 +94,7 @@
 
 根据私钥的存储方式，即用户是否掌握了私钥，我们可以把钱包划分为，**<font color=#2980fe>“中心化钱包”</font>及<font color=#2980fe>“去中心化钱包”</font>**。
 
-> 存储方式是指存在哪，只有仅存储在用户设备上的才叫“去中心化”，而只要私钥有存储在服务商的服务器里的，则就是“中心化”。
+> 存储方式是指存在哪，只有用户持有私钥且导入钱包后，私钥仅存储在用户设备上的才叫“去中心化”，而无私钥，或者私钥有上传存储在服务商的服务器里的，则就是“中心化”。
 
 去中心化钱包，我们又可根据私钥存储过程中是否接触网络，划分为**<font color=#2980fe>“冷钱包”</font>**和**<font color=#2980fe>“热钱包”</font>**；这里的接触网络是指，钱包是否联网了，而不是私钥是否在网络中传输的意思。
 
@@ -110,7 +110,7 @@
 
 轻钱包就是依赖区块链网络中的其他全节点的钱包，比如TP钱包会运行一个全节点，同步所有数据，然后根据不同的钱包地址将数据进行划分，按需下发，这样用户便可以既快又方便的使用钱包。常见的手机钱包和网页钱包就是轻钱包。
 
-去中心化钱包的数据都是区块链上的数据，而中心化钱包的数据则依赖钱包服务商自己的账本。举个例子，我们在交易所的钱包就是中心化钱包，我们往交易所指定的某个地址转账，然后交易所在自己的账本上记录了我们的充值记录，此后我们没做一次充值转账，交易所直接在他的账本上进行加或减。而这整个过程，完全没有发生在区块链上。
+去中心化钱包的数据都是区块链上的数据，而中心化钱包的数据则依赖钱包服务商自己的账本。举个例子，我们在交易所的钱包就是中心化钱包，我们往交易所指定的某个地址转账，然后交易所在自己的账本上记录了我们的充值记录，此后我们每做一次充值转账，交易所直接在他的账本上进行加或减。而这整个过程，完全没有发生在区块链上。
 
 ![节点钱包 示意图](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576071528679.png "节点钱包")
 
@@ -144,7 +144,7 @@
 ![分层确定性钱包 示意图](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576070849616.png "分层确定性钱包")
 
 > 同样的，我们可以把“分层确定性钱包”比喻成树干；  
-> 一个树干上有很多树枝，每一跟树枝上的叶子都是确定的。  
+> 一个树干上有很多树枝，每一根树枝上的叶子都是确定的。  
 > 所以，只要我们确定了某一树枝上的某一个位置，那这片叶子就是确定的。也就是私钥是确定的。
 
 
@@ -228,10 +228,10 @@ DApp是Decentralized Application的缩写，译为去中心化应用，指的是
 
 目前DApp主要集中在以太坊和EOS、TRON、IOST等区块链上。DApp与底层平台的关系，就好比APP与iOS和Android系统的关系。
 
-即是说EOS的DApp无法在ETH底层上运行，正如安卓的APP无法在iOS系统上运行。你可以在钱包中体验ETH上的去中心化金融
-MakerDAO，体验在EOSRacing中开赛⻋赢取EOS奖励，也可以在IOST上的猎币矿池进行挖矿理财。
+例如EOS的DApp无法在ETH底层上运行，正如安卓的APP无法在iOS系统上运行。你可以在钱包中体验ETH上的去中心化金融MakerDAO，体验在EOSRacing中开赛⻋赢取EOS奖励，也可以在IOST上的猎币矿池进行挖矿理财。
 
-目前一些大型游戏是以第三方APP的形式存在，当体验这些APP形式的DApp时，你同样需要钱包作为登录和交易授权的媒介。
+
+目前一些大型游戏是以第三方独立APP的形式存在，当体验这些APP形式的DApp时，你同样需要钱包作为登录和交易授权的媒介。
 
 ![DApp商店 示意图](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576074058171.png "DApp商店")
 
@@ -547,7 +547,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 <a class="tp-custom" href="https://www.coinbase.com" target="_blank">
     <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/ConibaseWallet.png"/>
     <div class="tp-content">
-        <h5>Conibase Wallet</h5>
+        <h5>Coinbase Wallet</h5>
         <p>https://www.coinbase.com</p>
     </div>
 </a>
@@ -719,15 +719,17 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </a>
 
 
-<!-- BEPAL Pro S -->
-<a class="tp-custom" style="border:none;">
-    <!-- <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/BEPALProS.png"/>
+<!-- SafePal-->
+<a class="tp-custom" href="https://safepal.io/" target="_blank">
+    <img class="tp-logo" width=50 src="https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1576591843263.png"/>
     <div class="tp-content">
-        <h5>BEPAL Pro S</h5>
-        <p>https://www.bepal.pro/bepal-q</p>
-    </div> -->
+        <h5>SafePal</h5>
+        <p>https://safepal.io/</p>
+    </div>
 </a>
 </main>
+
+
 
 ### 中心化&去中心化
 
@@ -767,11 +769,11 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </a>
 
 
-<!-- Renrenbit -->
+<!-- RenrenBit -->
 <a class="tp-custom" href="https://www.renrenbit.com" target="_blank">
     <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/Renrenbit.png"/>
     <div class="tp-content">
-        <h5>Renrenbit</h5>
+        <h5>RenrenBit</h5>
         <p>https://www.renrenbit.com</p>
     </div>
 </a>
