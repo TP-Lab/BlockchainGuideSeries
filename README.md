@@ -519,7 +519,6 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 </main>
 
 <!-- 9 -->
-
 <main class="tp-main">
 <!-- 块信 -->
 <a class="tp-custom" href="https://chattle.vip/#/" target="_blank">
@@ -538,6 +537,28 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <h5>KCASH</h5>
         <p>https://www.kcash.com</p>
     </div>
+</a>
+</main>
+
+
+<!-- 10 -->
+<main class="tp-main">
+<!-- Conibase Wallet -->
+<a class="tp-custom" href="https://www.coinbase.com" target="_blank">
+    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/ConibaseWallet.png"/>
+    <div class="tp-content">
+        <h5>Conibase Wallet</h5>
+        <p>https://www.coinbase.com</p>
+    </div>
+</a>
+
+<!-- KCASH -->
+<a class="tp-custom" style="border:none" target="_blank">
+    <!-- <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/KCASH.png"/>
+    <div class="tp-content">
+        <h5>KCASH</h5>
+        <p>https://www.kcash.com</p>
+    </div> -->
 </a>
 </main>
 
@@ -569,14 +590,6 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 <!-- 2 -->
 
 <main class="tp-main">
-<!-- Conibase Wallet -->
-<a class="tp-custom" href="https://www.coinbase.com" target="_blank">
-    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/ConibaseWallet.png"/>
-    <div class="tp-content">
-        <h5>Conibase Wallet</h5>
-        <p>https://www.coinbase.com</p>
-    </div>
-</a>
 
 
 <!-- Uphold -->
@@ -587,6 +600,16 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://uphold.com</p>
     </div>
 </a>
+
+<!-- Conibase Wallet -->
+<a class="tp-custom" style="border:none">
+    <!-- <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/ConibaseWallet.png"/>
+    <div class="tp-content">
+        <h5>Conibase Wallet</h5>
+        <p>https://www.coinbase.com</p> -->
+    <!-- </div> -->
+</a>
+
 </main>
 
 ### 硬件钱包
