@@ -939,3 +939,20 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 **Github：** https://github.com/TP-Lab
 
 **Email ：** service@tokenpocket.pro
+
+
+### 版权申明
+
+#### 《区块链钱包从入门到精通》，又称为钱包小白书。由TokenPocket钱包联合创始人Marcus主编，内容涵盖钱包发展史、钱包功能及钱包分类等八大板块，是目前市面上最为详细的数字钱包科普资料之一。Marcus，毕业于华南理工大学，TokenPocket钱包联合创始人兼CMO，一年时间带领TokenPpcket钱包从0发展到百万用户。原迅雷高级开发工程师，2019年被聘为韩国知名区块链投资机构 Hashed Labs 市场顾问。
+
+##### 1.本文版权归TokenPocket所有。
+
+##### 2.在征得作者同意的情况下，作品允许非盈利性引用，需要注明并请注明出处和作者，以尊重作者的劳动成果。
+
+##### 3.出处：https://tp-lab.github.io/BlockchainGuideSeries/#/，作者：TokenPocket。
+
+##### 4.未经允许，严禁转载。对非法转载者，TokenPocket和作/译者保留采用法律手段追究的权利。
+
+##### 5.对于本文和本声明以及其修改权、更新权及最终解释权均属TokenPocket。
+
+##### 6.以上声明的解释权归“TokenPocket”所有。
