@@ -906,6 +906,34 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 [点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
+
+### IOST钱包常见问题
+
+1.[如何创建IOST账号？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990432-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAIOST%E8%B4%A6%E5%8F%B7-)
+
+2.[如何把交易所的IOST提币到钱包账户？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990332-%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BA%A4%E6%98%93%E6%89%80%E7%9A%84IOST%E6%8F%90%E5%B8%81%E5%88%B0%E9%92%B1%E5%8C%85%E8%B4%A6%E6%88%B7-)
+
+3.[如何导入之前的IOST账号？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358591-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%85%A5%E4%B9%8B%E5%89%8D%E7%9A%84IOST%E8%B4%A6%E5%8F%B7-)
+
+4.[如何进行IOST收款？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360040722751-IOST%E9%92%B1%E5%8C%85%E7%9A%84%E6%94%B6%E6%AC%BE)
+
+5.[IOST钱包如何转账](https://help.mytokenpocket.vip/hc/zh-cn/articles/360040721791-IOST%E9%92%B1%E5%8C%85%E5%A6%82%E4%BD%95%E8%BD%AC%E8%B4%A6)
+
+6.[IOST账号的资源是什么？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358491-IOST%E8%B4%A6%E5%8F%B7%E7%9A%84%E8%B5%84%E6%BA%90%E6%98%AF%E4%BB%80%E4%B9%88-)
+
+7.[IOST怎么抵押/赎回资源？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990292-IOST%E6%80%8E%E4%B9%88%E6%8A%B5%E6%8A%BC-%E8%B5%8E%E5%9B%9E%E8%B5%84%E6%BA%90-)
+
+8.[如何玩IOST上的Dapp应用？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990272-%E5%A6%82%E4%BD%95%E7%8E%A9IOST%E4%B8%8A%E7%9A%84Dapp%E5%BA%94%E7%94%A8-)
+
+9.[如何进行IOST投票？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358451-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CIOST%E6%8A%95%E7%A5%A8-)
+
+10.[如何查看IOST转账的详细区块记录？](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990072-%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8BIOST%E8%BD%AC%E8%B4%A6%E7%9A%84%E8%AF%A6%E7%BB%86%E5%8C%BA%E5%9D%97%E8%AE%B0%E5%BD%95-)
+
+[点击前往查看更多](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007631251-IOST-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+
+
+
 ## 区块链钱包知识自测
 
 
