@@ -977,7 +977,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 ##### 2.在征得作者同意的情况下，作品允许非盈利性引用，需要注明并请注明出处和作者，以尊重作者的劳动成果。
 
-##### 3.出处：https://tp-lab.github.io/BlockchainGuideSeries/#/，作者：TokenPocket。
+##### 3.出处：https://tp-lab.github.io/BlockchainGuideSeries/#/  作者：TokenPocket。
 
 ##### 4.未经允许，严禁转载。对非法转载者，TokenPocket和作/译者保留采用法律手段追究的权利。
 
