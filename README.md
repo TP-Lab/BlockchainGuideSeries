@@ -786,8 +786,6 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 **Telegram：** https://t.me/tokenPocket_en
 
-**Twitter：** https://twitter.com/TokenPocket_TP
-
 **Email ：** service@tokenpocket.pro
 
 
