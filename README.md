@@ -762,7 +762,6 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 
 网址：https://help.tokenpocket.pro/cn/
 
-<img src="https://gz.bcebos.com/v1/tp-statics/logo/QA-code.jpg" width="250">
 
 
 ## 区块链钱包知识自测
