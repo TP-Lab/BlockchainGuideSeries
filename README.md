@@ -291,7 +291,7 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
 <main class="tp-main">
 <!-- TokenPocket -->
 <a class="tp-custom" href="https://www.tokenpocket.pro" target="_blank">
-    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/TokenPocket.png"/>
+    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/TokenPocket-20211201.png"/>
     <div class="tp-content">
         <h5>TokenPocket</h5>
         <p>https://www.tokenpocket.pro</p>
@@ -307,8 +307,6 @@ Trybe是一个由数字货币激励的社交网络和媒体发布社区，用户
         <p>https://www.trustwallet.com</p>
     </div>
 </a>
-</main>
-
 </main>
 
 <!-- 2 -->
