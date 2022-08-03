@@ -991,7 +991,7 @@ pre:after {
 }
 @media screen and (max-width: 767px) {
   section.cover {
-    background: url(https://gz.bcebos.com/tp-upload/newBanner/series.png)
+    background: url(https://tp-statics.tokenpocket.pro/logo/blockchain-mobile-zh.png)
       no-repeat !important;
     background-size: 100% auto !important;
     height: calc(100vw / 0.7) !important;
